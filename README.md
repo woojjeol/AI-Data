@@ -37,7 +37,7 @@ AI 데이터 개발 학습 현황 및 프로젝트 계획서
 
   언어: Python
 
-  라이브러리: Pandas, NumPy, Matplotlib, Seaborn
+  라이브러리: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 - 핵심 수행 단계 3가지:
 
