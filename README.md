@@ -16,7 +16,7 @@ AI 데이터 개발 학습 현황 및 프로젝트 계획서
 
 - 핵심 학습 언어: Python 
 
-- 주요 학습 라이브러리: Pandas, NumPy, Scikit-learn (기초 모델링), Matplotlib/Seaborn (시각화)
+- 주요 학습 라이브러리: Pandas, NumPy, Scikit-learn (기초 모델링), Matplotlib/Seaborn, Plotly (정적 및 동적 시각화)
 
 - 주요 수강 이력: 데이터 스테이션- 'Python 활용한 데이터 분석 프로젝트' 70% 수강 완료 (강의: 11/21 종료, 프로젝트: 12/5 종료)
 
@@ -45,4 +45,4 @@ AI 데이터 개발 학습 현황 및 프로젝트 계획서
 
   2) 데이터 전처리: 결측치 및 이상치를 처리하고, 분석에 적합한 형태로 데이터 변환
 
-  3) Matplotlib/Seaborn을 활용하여 데이터의 분포 및 경향을 시각화하고 간단한 해석 추가
+  3) Matplotlib/Seaborn, Plotly를 활용하여 데이터의 분포 및 경향을 시각화하고 간단한 해석 추가
