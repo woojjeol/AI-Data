@@ -3,7 +3,7 @@ AI Data Development (Python study &amp; Data Analasys Project)
 AI 데이터 개발 학습 현황 및 프로젝트 계획서
 
 
-1. 개인 정보
+** 1. 개인 정보
 
 - 성명: 신우철 (경기대학교 3학년)
 
