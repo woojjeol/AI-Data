@@ -2,6 +2,20 @@
 AI Data Development (Python study &amp; Data Analasys Project)
 AI 데이터 개발 학습 현황 및 프로젝트 계획서
 
+## Repository 구조
+
+- README.md
+
+  현재 보시는 파일로, 전체 개요 및 학습 현황을 요약한 문서입니다.
+
+- AI_Data.ipynb (Main Project)
+
+  가상의 '서울시 대기 질 데이터'를 활용한 데이터 전처리 및 시각화 프로젝트입니다.(메인 프로젝트)
+
+- Practice(Study Log)
+
+  Python 기초부터 Pandas, Plotly까지의 학습 과정을 담은 Part 1 ~ Part 4 노트북 파일이 포함된 폴더입니다.
+
 
 ### 1. 개인 정보
 
